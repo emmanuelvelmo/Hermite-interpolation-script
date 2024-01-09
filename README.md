@@ -1,5 +1,5 @@
 <p align="left">
-  <strong>Output Image</strong>
+  <strong>Output Image (not fixed)</strong>
   <br/>
   <img src="https://github.com/emmanuelvelmo/Hermite-interpolation-script/assets/51292782/eaf5533f-502c-4a4d-94f0-20875df92a27"/>
 </p>
