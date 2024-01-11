@@ -200,7 +200,6 @@ int main()
     std::ofstream bmp_arch("C:/Users/" + n_usr + "/Desktop/bmp_example.bmp", std::ios::binary);
     bmp_arch.write(bmp_salida.data(), bmp_salida.size());
     bmp_arch.close();
-    std::cout << "Finished";
-
+    
     return 0;
 }
